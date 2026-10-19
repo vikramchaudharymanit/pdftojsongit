@@ -1,0 +1,60 @@
+{
+  "title": "Machine Learning in Healthcare",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Introduction",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Motivation",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Data Sources",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Dataset Collection",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Preprocessing",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Feature Engineering",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Model Architecture",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Transformer Encoder",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Positional Encoding",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Results",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Conclusion",
+      "page": 3
+    }
+  ]
+}
